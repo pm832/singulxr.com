@@ -1,0 +1,18 @@
+# SingulXR
+
+> SingulXR is building the converged platform where extended reality (XR), artificial intelligence, and haptics meet — enabling immersive, intelligent, and tactile spatial experiences for the enterprise. The product tagline is "XR · AI · Haptics, Converged."
+
+## About
+
+- [Homepage](https://singulxr.com/): Overview of the SingulXR converged spatial-computing platform.
+
+## Capabilities
+
+- **Extended Reality (XR)**: Virtual, augmented, and mixed reality environments for immersive, spatial workflows.
+- **Artificial Intelligence**: Context-aware, adaptive intelligence embedded in every experience.
+- **Haptics**: High-fidelity tactile feedback that adds the sense of touch to digital interaction.
+- **Convergence**: XR, AI, and haptics unified in a single platform for enterprise training, collaboration, product design, and simulation.
+
+## Contact
+
+- For partnership and product inquiries, use the contact form on the [homepage](https://singulxr.com/).
